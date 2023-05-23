@@ -1,0 +1,42 @@
+header {
+  padding-top: 50px;
+}
+.col-12 {
+  background-color: aqua;
+  border: 2px solid black;
+  padding: 20px;
+}
+.col-6 {
+  background-color: aqua;
+  border: 2px solid black;
+  padding: 20px;
+}
+
+.col-4 {
+  background-color: aqua;
+  border: 2px solid black;
+  padding: 20px;
+}
+
+.col-3 {
+  background-color: aqua;
+  border: 2px solid black;
+  padding: 20px;
+}
+
+.col-2 {
+  background-color: aqua;
+  border: 2px solid black;
+  padding: 20px;
+}
+
+.col-1 {
+  background-color: aqua;
+  border: 2px solid black;
+  padding: 20px;
+}
+.col-8 {
+  background-color: aqua;
+  border: 2px solid black;
+  padding: 20px;
+}
